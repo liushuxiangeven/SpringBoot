@@ -1,0 +1,38 @@
+# Java #
+*.class
+classes/
+target/
+
+# Eclipse #
+.classpath
+.project
+.settings
+.metadata
+bin/
+
+# idea #
+*.iml
+.idea/
+*.eml
+.mvn/
+mvnw*
+*.iws
+*.ipr
+.ideaDataSources/
+out/
+*.userlibraries
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.tmp
+*.bak
+*.swp
+
+onclick-admin/\.tern-project
+/onclick-crawler/src/main/java/im/onclick/crawler/ins/util/HttpWrapInvoker.java
+
+onclick-wechat/\.tern-project
+
+\.tern-project
